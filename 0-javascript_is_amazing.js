@@ -3,9 +3,9 @@
 let myVar = ""
 [Got]
 
-(0 chars long)
+// (0 chars long)
 [stderr]: 
-(0 chars long)
+// (0 chars long)
 [Expected]
 JavaScript is amazing
 
