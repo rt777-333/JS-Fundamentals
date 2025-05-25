@@ -1,14 +1,15 @@
 // 0-javascript_is_amazing.js
 ["console.log()"]
 let myVar = ""
-[Got]
+["Got"]
 
 // (0 chars long)
-[stderr]
+["stderr"]
 // (0 chars long)
-[Expected]
-JavaScript is amazing
+["Expected"]
 
-(22 chars long)
-[stderr] [Anything]
-(0 chars long)
+["JavaScript is amazing"]
+
+["(22 chars long)"]
+["[stderr] [Anything]"]
+["(0 chars long)"]
