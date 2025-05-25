@@ -4,11 +4,11 @@ let myVar = ""
 [Got]
 
 // (0 chars long)
-[stderr]: 
+[stderr]
 // (0 chars long)
 [Expected]
 JavaScript is amazing
 
 (22 chars long)
-[stderr]: [Anything]
+[stderr] [Anything]
 (0 chars long)
