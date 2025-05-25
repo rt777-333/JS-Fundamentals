@@ -1,4 +1,4 @@
-"console.log()"
+console.log("JavaScript is amazing")
 let myVar = ""
 
 
