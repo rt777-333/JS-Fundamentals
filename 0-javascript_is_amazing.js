@@ -1,8 +1,6 @@
 // 0-javascript_is_amazing.js
 ["console.log()"]
-// 0-javascript_is_amazing.js
-["console.log()"]
-val myVar = ""
+let myVar = ""
 [Got]
 
 (0 chars long)
